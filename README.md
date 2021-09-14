@@ -5,7 +5,9 @@ The images and fonts were fixed.
 
 Removed a script that mined for DogeCoin.
 
-[Play the official version here.](http://doge2048.com)
+[Play here.](https://jeweled-fox.github.io/doge2048/)
+
+[Play the original version here.](http://doge2048.com)
 
 
 ## License
