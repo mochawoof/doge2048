@@ -1,5 +1,9 @@
 # Doge2048
-Fixed the images and such, and removed the crypto miner.
+A fixed version of [Laferrera](https://github.com/laferrera)'s Doge2048 version.
+
+The images and fonts were fixed.
+
+Removed a script that mined for DogeCoin.
 
 [Play the official version here.](http://doge2048.com)
 
